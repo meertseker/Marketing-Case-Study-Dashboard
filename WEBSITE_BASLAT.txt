@@ -1,0 +1,233 @@
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║              UNİME WEB SİTESİNİ ÇALIŞTIRMA REHBERİ                      ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+
+🌐 WEB SİTESİ HAZIR! - SLAYT ODAKLI CHEAT SHEET
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Modern, interaktif SLAYT REHBERİ web sitesi oluşturuldu!
+
+✨ Özellikler:
+  • 🎯 SLAYT SLAYT DETAYLI REHBER
+  • 📊 Her slaytın ne içereceği yazıyor
+  • 🖼️ Hangi görsellerin ekleneceği belirtilmiş
+  • 💡 Tasarım ipuçları her slayt için
+  • 🎨 Layout önerileri (nasıl düzenleneceği)
+  • Ali için İngilizce, diğerleri Türkçe
+  • Responsive tasarım (mobil, tablet, desktop)
+  • Smooth animasyonlar
+
+
+📋 ADIM 1: Node.js Kurulumu
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Node.js yüklü mü kontrol et:
+
+   node --version
+
+Eğer yüklü değilse:
+   → https://nodejs.org adresinden indir ve kur
+   → LTS versiyonunu seç (önerilen)
+
+
+📦 ADIM 2: Paketleri Yükle
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Terminal/PowerShell'de proje klasöründe:
+
+   cd C:\Users\meert\Desktop\eceodev
+   npm install
+
+Bu işlem 1-2 dakika sürebilir.
+
+
+🚀 ADIM 3: Web Sitesini Başlat
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+   npm run dev
+
+Terminal'de şu mesajı göreceksiniz:
+
+   ➜  Local:   http://localhost:5173/
+
+Tarayıcıda otomatik açılır. Açılmazsa manuel olarak:
+   → http://localhost:5173 adresine git
+
+
+🎨 WEB SİTESİ ÖZELLİKLERİ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ANA SAYFA:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  • 6 takım üyesi kartları (renkli gradientler)
+  • Her kartta:
+    - İsim ve emoji
+    - Dil göstergesi (🇬🇧 Ali için, 🇹🇷 diğerleri için)
+    - SLAYT NUMARALARI (#3, #4 vs.)
+    - Toplam slayt sayısı
+    - Deadline
+  • Proje timeline
+  • Bologna benchmark bilgisi
+
+DETAY SAYFASI (Karta tıklayınca) - ⭐ YENİ!
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  • Üye başlığı (büyük, renkli)
+  
+  📊 HER SLAYT İÇİN AYRI AYRI:
+  ─────────────────────────────────────────────────────────────────────────
+    ✓ Slayt numarası ve başlık
+    ✓ Layout önerisi (nasıl düzenlenecek)
+    ✓ İçerik bölümleri (başlıklar ve bullet'lar)
+    ✓ Eklenecek görseller (fotoğraf, grafik, logo)
+    ✓ Tasarım ipuçları (renkler, fontlar, düzen)
+  
+  • Genel sunum ipuçları
+  • Completion checklist
+  • Geri dön butonu
+
+
+👤 EKIP ÜYELERİ VE SLAYTLARI
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. Ali 💼 (Mavi-Cyan) 🇬🇧
+   Slayt #3: Internships and Career Opportunities
+   Slayt #4: Academic and Learning Opportunities
+   ⚠️ İNGİLİZCE DETAYLI ANLATIM
+
+2. Ece 🔬 (Mor-Pembe) 🇹🇷
+   Slayt #5: Araştırma ve İnovasyon Fırsatları
+   Slayt #6: Girişimcilik Fırsatları
+
+3. Ada 🌍 (Yeşil-Teal) 🇹🇷
+   Slayt #7: Uluslararası Fırsatlar
+   Slayt #8: Network ve Mezun Ağı Fırsatları
+
+4. Defne 🎨 (Sarı-Turuncu) 🇹🇷
+   Slayt #9: Sosyal ve Kültürel Fırsatlar
+   Slayt #10: Sürdürülebilirlik İnisiyatifleri
+
+5. Berkay 💰 (İndigo-Mor) 🇹🇷
+   Slayt #11: Burslar ve Mali Destekler
+   Slayt #12: Dijital ve Teknolojik Fırsatlar
+
+6. All Together 👥 (Kırmızı-Pembe) 🇬🇧
+   Slayt #13: Employment Rate After Graduation
+   Slayt #14: Competitor Universities Comparison
+   Slayt #15: Positioning Map
+   Slayt #16: Social Media Analysis
+   Slayt #17-18: Conclusion & Recommendations (2 slides)
+   ⚠️ İNGİLİZCE DETAYLI ANLATIM
+   ⭐ Bologna BENCHMARK vurgulanacak
+
+
+🛠️ WEB SİTESİNİ DURDURMA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Terminal'de:
+   Ctrl + C
+
+Sonra tekrar başlatmak için:
+   npm run dev
+
+
+📱 RESPONSIVE TASARIM
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✓ Mobil (0-768px): Tek sütun
+✓ Tablet (768-1024px): İki sütun
+✓ Desktop (1024px+): Üç sütun
+
+Tarayıcı penceresini küçült-büyüt, responsive'liği gör!
+
+
+🎨 RENKLENDİRME
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Her üyenin kendine özel gradient rengi var:
+  • Ali: Mavi-Cyan
+  • Ece: Mor-Pembe
+  • Ada: Yeşil-Teal
+  • Defne: Sarı-Turuncu
+  • Berkay: İndigo-Mor
+  • All Together: Kırmızı-Pembe
+
+
+🔧 VERİYİ DEĞİŞTİRME
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Ekip üyelerinin bilgilerini değiştirmek için:
+
+   src/data/teamData.js
+
+dosyasını düzenle. Değişiklik yaptıktan sonra sayfa otomatik yenilenecek!
+
+
+📸 EKRAN GÖRÜNTÜLERİ ALMA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Sunum için ekran görüntüleri almak istersen:
+
+1. Web sitesini aç
+2. Her üyeye tıklayıp detay sayfasını gör
+3. Windows: Win + Shift + S
+4. Mac: Cmd + Shift + 4
+
+
+🌐 DEPLOYMENT (Canlıya Alma)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Web sitesini internette yayınlamak için:
+
+Ücretsiz seçenekler:
+  • Vercel (önerilen): vercel.com
+  • Netlify: netlify.com
+  • GitHub Pages
+
+Adımlar:
+  1. npm run build
+  2. dist/ klasörü oluşur
+  3. Bu klasörü seçtiğin platformda deploy et
+
+
+💡 NASIL KULLANILIR? (SLAYT YAPARKEN)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. Web sitesini aç: npm run dev
+2. Kendi isminin kartına tıkla
+3. Her slaytın detaylarını oku:
+   ✓ Başlık ne olacak
+   ✓ İçinde ne yazacak (başlıklar + bullet'lar)
+   ✓ Hangi görselleri koyacaksın
+   ✓ Nasıl düzenlenecek (layout)
+   ✓ Tasarım ipuçları
+4. Slaytı aç (PowerPoint/Google Slides)
+5. Web sitesine bakarak birebir uygula!
+6. Her slayt için bu şekilde devam et
+
+🎯 ÖDEV BİTİRME CHEAT SHEET!
+  • Hiçbir şey düşünmene gerek yok
+  • Her şey hazır, sadece uygula
+  • Kopyala-yapıştır mantığı
+  • Sunum sırasında da web sitesini gösterebilirsin!
+
+
+🔥 HIZLI KOMUTLAR
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Kurulum:           npm install
+Başlat:            npm run dev
+Durdur:            Ctrl + C
+Build:             npm run build
+
+
+═══════════════════════════════════════════════════════════════════════════
+
+✨ WEB SİTESİ KULLANIMA HAZIR! HEMEN BAŞLAT! 🚀
+
+npm run dev
+
+═══════════════════════════════════════════════════════════════════════════
+

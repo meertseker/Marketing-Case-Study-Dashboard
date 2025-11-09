@@ -1,0 +1,277 @@
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║        UNİME MARKETİNG CASE STUDY - PROJE GENEL BAKIŞ VE AKIŞI          ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+
+📌 PROJE HEDEFİ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+"Apply to UniMe" - Potansiyel öğrencileri üniversitenin sunduğu çeşitli
+fırsatları vurgulayarak çekmek ve rakiplerle kıyaslamak.
+
+
+🗂️ KLASÖR YAPISI VE EKİP ÜYELERİ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📁 Ali_Internships_Academic/
+   └── Tasks.txt (🇬🇧 İNGİLİZCE)
+
+📁 Ece_Research_Entrepreneurship/
+   └── Gorevler.txt (🇹🇷 TÜRKÇE)
+
+📁 Ada_International_Alumni/
+   └── Gorevler.txt (🇹🇷 TÜRKÇE)
+
+📁 Defne_Social_Sustainability/
+   └── Gorevler.txt (🇹🇷 TÜRKÇE)
+
+📁 Berkay_Scholarships_Digital/
+   └── Gorevler.txt (🇹🇷 TÜRKÇE)
+
+📁 All_Together_Employment_Competitor/
+   └── Gorevler.txt (🇹🇷 TÜRKÇE - Herkes birlikte)
+
+
+📊 SORUMLULUK MATRİSİ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+┏━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Üye     ┃ Fırsatlar (Opportunities)          ┃ Slayt Sayısı         ┃
+┡━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━┩
+│ Ali     │ • Internships and Career Opp.      │ 2 slayt              │
+│ 🇬🇧      │ • Academic and Learning Opp.       │                      │
+├─────────┼────────────────────────────────────┼──────────────────────┤
+│ Ece     │ • Research and Innovation Opp.     │ 2 slayt              │
+│         │ • Entrepreneurial Opportunities    │                      │
+├─────────┼────────────────────────────────────┼──────────────────────┤
+│ Ada     │ • International Opportunities      │ 2 slayt              │
+│         │ • Networking and Alumni Opp.       │                      │
+├─────────┼────────────────────────────────────┼──────────────────────┤
+│ Defne   │ • Social and Cultural Opp.         │ 2 slayt              │
+│         │ • Sustainability Opportunities     │                      │
+├─────────┼────────────────────────────────────┼──────────────────────┤
+│ Berkay  │ • Scholarships and Financial Opp.  │ 2 slayt              │
+│         │ • Digital and Technological Opp.   │                      │
+├─────────┼────────────────────────────────────┼──────────────────────┤
+│ All     │ • Employment Rate After Grad       │ 5+ slayt             │
+│ Together│ • Competitor Analysis (4 uni)      │                      │
+│         │ • Positioning Map                  │                      │
+│         │ • Social Media Analysis            │                      │
+│         │ • Conclusion & Recommendations     │                      │
+└─────────┴────────────────────────────────────┴──────────────────────┘
+
+
+🎯 RAKİP ÜNİVERSİTELER (KARŞILAŞTIRILACAK)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. University of Bologna (Ravenna) ⭐ BENCHMARK
+   → "We want to be like that" - Hedef model üniversite
+
+2. University of Sapienza (Roma)
+
+3. University of Cassino
+
+4. University of Trieste
+
+
+📋 İŞ AKIŞI
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+FAZE 1: BİREYSEL ÇALIŞMA (Paralel) - 1-2 Hafta
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+   👤 Ali → Internships & Academic
+   👤 Ece → Research & Entrepreneurship
+   👤 Ada → International & Alumni
+   👤 Defne → Social & Sustainability
+   👤 Berkay → Scholarships & Digital
+
+   ⚠️ HER ÜYE KENDI BÖLÜMÜNÜ AYNI ANDA YAPACAK!
+
+
+FAZE 2: GRUP ÇALIŞMASI - 1-2 Hafta
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+   👥 All Together ekibi:
+      1. Tüm üyelerden veri toplama
+      2. Employment rate araştırması
+      3. Rakip analizi (Bologna, Sapienza, Cassino, Trieste)
+      4. Positioning map
+      5. Social media analysis
+      6. Conclusion & recommendations
+
+
+FAZE 3: FİNAL - 3-5 Gün
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+   👥 Hep Birlikte:
+      • Slayt birleştirme ve tasarım uyumu
+      • Final düzeltmeler
+      • Sunum provası
+      • Soru-cevap hazırlığı
+
+
+📞 KOORDİNASYON REHBERİ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+KİM KİMLE KOORDİNE OLMALI?
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Ali ↔ Ada: International internships, academic exchanges
+Ali ↔ Berkay: Digital learning platforms
+Ece ↔ Ali: Research programs & academic support
+Ece ↔ Ada: International research collaborations
+Ada ↔ Defne: International cultural events
+Berkay ↔ Herkes: Burslar tüm alanları etkiliyor
+
+All Together → HERKESİN VERİSİNE İHTİYAÇ VAR
+
+
+NASIL PAYLAŞIM YAPILMALI?
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. Ortak Google Drive klasörü oluşturun
+2. Her üye kendi klasörüne dosyalarını koysun
+3. Her bölüm bittiğinde WhatsApp/Discord'da bildir
+4. Haftada 2 kez toplantı (durum güncellemesi)
+5. All Together ekibi herkesin verilerini toplayacak
+
+
+💡 ÖNEMLİ İPUÇLARI
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✅ YAPILMASI GEREKENLER:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✓ Kendi görev dosyanızı dikkatlice okuyun
+✓ Belirlenen deadline'lara uyun
+✓ Görselleştirme kullanın (grafik, tablo, fotoğraf)
+✓ İstatistikler ve veri ekleyin
+✓ Kaynak gösterin (varsa)
+✓ Slaytları kısa ve öz tutun (bullet points)
+✓ Tasarımda tutarlı olun
+✓ Düzenli iletişim halinde olun
+✓ Bologna'yı benchmark olarak kullanın
+
+
+❌ YAPILMAMASI GEREKENLER:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✗ Son güne bırakmayın
+✗ Diğer üyelerle koordinasyon kurmadan ilerlemeyın
+✗ Slaytlara çok fazla metin koymayın
+✗ Tutarsız tasarım kullanmayın
+✗ Deadline'ı geçirmeyin
+✗ Grupla paylaşmadan bekletmeyin
+
+
+📅 ÖRNEK TARİH ÇİZELGESİ (4 Haftalık Plan)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+HAFTA 1-2: Bireysel Çalışma
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  □ Ali: Internships & Academic (2 slayt)
+  □ Ece: Research & Entrepreneurship (2 slayt)
+  □ Ada: International & Alumni (2 slayt)
+  □ Defne: Social & Sustainability (2 slayt)
+  □ Berkay: Scholarships & Digital (2 slayt)
+  
+  Deadline: 2. hafta sonu - Herkes bitirmiş olmalı!
+
+HAFTA 3: Grup Çalışması
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  □ All Together: Veri toplama
+  □ Rakip üniversite araştırması (4 uni)
+  □ Employment rate analizi
+  □ Karşılaştırma tablosu
+  □ Positioning map
+
+HAFTA 4: Finalizasyon
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  □ Social media analysis
+  □ Conclusion & recommendations
+  □ Tüm slaytları birleştirme
+  □ Tasarım uyumu
+  □ Yazım kontrolü
+  □ Sunum provası (2-3 kez)
+  □ Soru-cevap hazırlığı
+
+
+🎓 SUNUM GÜNÜNE HAZIRLIK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+FINAL CHECKLIST:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+□ Tüm slaytlar tamamlandı mı? (10-15 slayt)
+□ Tasarım tutarlı mı? (aynı font, renkler, stil)
+□ Metinlerde hata var mı? (Yazım denetimi)
+□ Görseller kaliteli mi? (yüksek çözünürlük)
+□ Bologna benchmark açık vurgulandı mı?
+□ İstatistikler ve grafikler doğru mu?
+□ Sunum akışı mantıklı mı?
+□ Her üye kendi bölümünü biliyor mu?
+□ Zaman sınırı içinde bitiyor mu? (15-20 dk)
+□ Sorulara hazır mıyız?
+□ Backup plan var mı? (teknik sorun için)
+
+
+📞 İLETİŞİM TAVSİYESİ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Grup Mesajı Şablonu:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+"Merhaba ekip! 👋
+
+[İsim] bölümü tamamlandı! ✅
+
+Tamamlanan:
+- [Opportunity 1]
+- [Opportunity 2]
+- Slayt sayısı: 2
+- Görseller: ✓
+
+Dosyalar: [Klasör adı]/
+
+All Together ekibi kullanabilir! 
+
+Sorular varsa yazın! 💬"
+
+
+🎯 ÖZEL NOTLAR
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ BOLOGNA BENCHMARKİ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Resimde "We want to be like that" notu Bologna için konmuş.
+Bu çok önemli!
+
+All Together ekibi:
+  • Bologna'nın her alandaki performansını analiz edin
+  • UniMe ile Bologna arasındaki farkları vurgulayın
+  • Bologna seviyesine ulaşmak için öneriler sunun
+  • Positioning map'te Bologna'nın pozisyonu ideal olarak gösterilmeli
+
+
+🇬🇧 ALİ İÇİN ÖZEL NOT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Ali'nin görev dosyası İngilizce yazılmıştır (Tasks.txt).
+Diğer herkesin dosyası Türkçe'dir (Gorevler.txt).
+
+
+═══════════════════════════════════════════════════════════════════════════
+
+🚀 BAŞARILAR! HEP BİRLİKTE HARIKA BİR PROJE ÇIKARACAKSINIZ! 🚀
+
+═══════════════════════════════════════════════════════════════════════════
+
+
+SON NOT: Her üye kendi klasöründeki görev dosyasını okumalı!
+         Ali → Tasks.txt (English)
+         Diğerleri → Gorevler.txt (Türkçe)
+

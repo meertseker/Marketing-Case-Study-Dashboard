@@ -1,0 +1,210 @@
+═══════════════════════════════════════════════════════════════
+    ALL TOGETHER - EMPLOYMENT, COMPETITOR ANALYSIS & CONCLUSION
+═══════════════════════════════════════════════════════════════
+
+⚠️ THIS SECTION IS IN ENGLISH 🇬🇧
+
+👥 TEAM MEMBERS: Entire group works together
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+📋 SORUMLULUK ALANLARINIZ:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  → Employment Rate After Graduation (Mezuniyet Sonrası İstihdam)
+  → Competitor Analysis (Rakip Analizi)
+  → Perceptual/Positioning Map
+  → Social Media Analysis (Sosyal Medya Analizi)
+  → Conclusion & Recommendations (Sonuç ve Öneriler)
+
+
+📊 SLAYT SORUMLULUĞUNUZ:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ➤ Slayt: Mezuniyet Sonrası İstihdam Oranları
+  ➤ Slayt: Rakip Üniversiteler Karşılaştırması
+  ➤ Slayt: Pozisyonlama Haritası
+  ➤ Slayt: Sosyal Medya Analizi
+  ➤ Slayt: Sonuç ve Öneriler
+
+
+✍️ İÇERİKTE BULUNMASI GEREKENLER:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📍 1. MEZUN İSTİHDAM ORANI (Employment Rate After Graduation):
+
+Dahil Edilmesi Gerekenler:
+   → UniMe mezunlarının istihdam oranı (%)
+   → İlk iş bulma süresi (ortalama 3-6 ay?)
+   → Mezunların hangi sektörlerde çalıştığı
+   → Ortalama başlangıç maaşları
+   → İş bulma destek mekanizmaları
+   → Başarı hikayeleri
+
+Önemli:
+   • Rakiplerle karşılaştırma yapılacak
+   • Veri kaynakları belirtilmeli
+
+
+📍 2. RAKİP ANALİZİ (Competitor Analysis):
+
+Analiz Edilecek Üniversiteler (Resimden):
+   1. University of Cassino
+   2. University of Bologna (Ravenna) ⭐ [Benchmark - "we want to be like that"]
+   3. University of Sapienza (Roma)
+   4. University of Trieste
+
+Her Üniversite İçin Karşılaştırılacak Konular:
+   ✓ Employment Rate
+   ✓ Internships & Career Opportunities
+   ✓ Research & Innovation
+   ✓ International Opportunities
+   ✓ Entrepreneurship
+   ✓ Networking & Alumni
+   ✓ Academic & Learning
+   ✓ Social & Cultural
+   ✓ Scholarships & Financial Aid
+   ✓ Digital & Technological
+   ✓ Sustainability
+
+NOT: Diğer ekip üyelerinin topladığı tüm veriyi kullanacaksınız!
+
+Tablo Formatı Önerisi:
+┌─────────────┬────────┬─────────┬──────────┬─────────┬─────────┐
+│ Opportunity │ UniMe  │ Bologna │ Sapienza │ Cassino │ Trieste │
+├─────────────┼────────┼─────────┼──────────┼─────────┼─────────┤
+│ Employment  │ 85%    │ 92%     │ 88%      │ 78%     │ 80%     │
+│ Research    │ Strong │ Excellent│ Excellent│ Moderate│ Strong  │
+│ ...         │        │         │          │         │         │
+└─────────────┴────────┴─────────┴──────────┴─────────┴─────────┘
+
+
+📍 3. POZISYONLAMA HARİTASI (Perceptual Map):
+
+X Ekseni: [Örnek: Research & Innovation Strength]
+Y Ekseni: [Örnek: Employment & Career Support]
+
+5 üniversiteyi bu haritaya yerleştirin:
+   • UniMe nerede?
+   • Bologna nerede? (ideal pozisyon)
+   • Diğerleri?
+
+Analiz:
+   → UniMe'nin güçlü yönleri neler?
+   → Eksik yanlar neler?
+   → Bologna gibi olmak için ne yapılmalı?
+
+
+📍 4. SOSYAL MEDYA ANALİZİ:
+
+Analiz Edilecek Platformlar:
+   → Instagram
+   → Facebook
+   → LinkedIn
+   → TikTok (varsa)
+
+Her Platform İçin:
+   • Takipçi sayısı
+   • Engagement rate (beğeni, yorum, paylaşım)
+   • Post sıklığı
+   • İçerik türleri
+   • En çok etkileşim alan postlar
+   • Eksiklikler
+
+Rakiplerle Karşılaştırma:
+   → Bologna'nın sosyal medya stratejisi nasıl?
+   → UniMe ne yapabilir?
+
+Öneriler:
+   • Hangi içerik türleri artırılmalı?
+   • Hangi hashtag'ler kullanılmalı?
+   • Post sıklığı nasıl olmalı?
+
+
+📍 5. SONUÇ VE ÖNERİLER (Conclusion & Recommendations):
+
+Özet:
+   → UniMe'nin güçlü yönleri (3-5 madde)
+   → Geliştirilmesi gereken alanlar (3-5 madde)
+   → Rakipler karşısında pozisyonu
+
+Öneriler:
+   1. Kısa vadeli (3-6 ay):
+      • Sosyal medya içerik planı
+      • Öğrenci başarı hikayelerini öne çıkarma
+      • Campus event'lerin artırılması
+
+   2. Orta vadeli (6-12 ay):
+      • Yeni partnership'ler (şirketler, üniversiteler)
+      • Research & entrepreneurship highlight
+      • Alumni network güçlendirme
+
+   3. Uzun vadeli (1-2 yıl):
+      • Bologna seviyesine ulaşma stratejisi
+      • Uluslararası tanınırlık artırma
+      • Ranking'lerde yükselme
+
+Action Plan:
+   → Kimin ne yapacağı
+   → Timeline
+   → Başarı metrikleri (KPI)
+
+
+💡 İPUÇLARI:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ✓ Kapsamlı tablo ve grafikler kullanın
+  ✓ Veriye dayalı analiz yapın
+  ✓ Görsel olarak etkileyici pozisyonlama haritası
+  ✓ Actionable (uygulanabilir) öneriler sunun
+  ✓ Ekip üyelerinin tüm verilerini derleyin
+
+
+⏰ DEADLINE:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ⚠️ DİĞER TÜM BÖLÜMLER BİTTİKTEN SONRA
+  → Ali, Ece, Ada, Defne, Berkay'ın verilerini toplayın
+  → Sonra rakip araştırmasına başlayın
+
+
+🔗 KOORDİNASYON:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  1. Tüm ekip üyelerinden veri toplayın
+  2. Rakip üniversiteler için aynı kriterlerde araştırma yapın
+  3. Karşılaştırmalı tablo oluşturun
+  4. Grup olarak pozisyonlama haritası çizin
+  5. Sosyal medya analizi için sorumlular belirleyin
+  6. Sonuç ve önerileri birlikte yazın
+
+
+📌 İŞ BÖLÜMÜ ÖNERİSİ (All Together Ekibi İçinde):
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Kişi A: Employment rate research + Competitor data collection
+Kişi B: Social media analysis (Instagram, Facebook)
+Kişi C: Social media analysis (LinkedIn, TikTok)
+Kişi D: Positioning map creation + visual design
+Kişi E: Conclusion & recommendations writing
+Hep Birlikte: Final review ve sunum hazırlığı
+
+
+✅ TAMAMLANDIĞINDA İŞARETLE:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  [ ] Tüm ekip üyelerinden veriler toplandı
+  [ ] Employment rate araştırıldı
+  [ ] 4 rakip üniversite detaylı analiz edildi
+  [ ] Karşılaştırma tablosu oluşturuldu
+  [ ] Pozisyonlama haritası çizildi
+  [ ] Sosyal medya analizi tamamlandı
+  [ ] Sonuç ve öneriler yazıldı
+  [ ] Tüm slaytlar hazırlandı
+  [ ] Final review yapıldı
+  [ ] Sunum provası yapıldı
+
+
+═══════════════════════════════════════════════════════════════
+  PROJEYİ GÜÇLÜ BİR ŞEKİLDE TAMAMLAYIN! 🎯📊
+═══════════════════════════════════════════════════════════════
+
+
+NOT: Bologna üniversitesi benchmark olarak belirlenmiş ("we want to 
+be like that"). Analizlerinizde Bologna'yı özellikle vurgulayın ve 
+UniMe'nin Bologna seviyesine ulaşması için öneriler sunun.
+
