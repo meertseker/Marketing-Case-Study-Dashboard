@@ -1,6 +1,7 @@
 {
   "name": "unime-project-dashboard",
   "version": "1.0.0",
+  "type": "module",
   "description": "UniMe Marketing Case Study - Team Dashboard",
   "scripts": {
     "dev": "vite",
